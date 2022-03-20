@@ -35,3 +35,6 @@ C:\Users\conta.DESKTOP-IPHRGP0\OneDrive\Documentos\GitHub\CatAsService\obj\Debug
 C:\Users\conta.DESKTOP-IPHRGP0\OneDrive\Documentos\GitHub\CatAsService\obj\Debug\netcoreapp3.1\CatAsService.dll
 C:\Users\conta.DESKTOP-IPHRGP0\OneDrive\Documentos\GitHub\CatAsService\obj\Debug\netcoreapp3.1\CatAsService.pdb
 C:\Users\conta.DESKTOP-IPHRGP0\OneDrive\Documentos\GitHub\CatAsService\obj\Debug\netcoreapp3.1\CatAsService.genruntimeconfig.cache
+C:\Users\conta.DESKTOP-IPHRGP0\OneDrive\Documentos\GitHub\CatAsService\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\conta.DESKTOP-IPHRGP0\OneDrive\Documentos\GitHub\CatAsService\obj\Debug\netcoreapp3.1\CatAsService.csproj.CopyComplete
+C:\Users\conta.DESKTOP-IPHRGP0\OneDrive\Documentos\GitHub\CatAsService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

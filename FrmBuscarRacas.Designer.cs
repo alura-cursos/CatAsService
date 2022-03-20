@@ -77,7 +77,7 @@ namespace CatAsService
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(157, 128);
+            this.label3.Location = new System.Drawing.Point(74, 125);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(76, 13);
             this.label3.TabIndex = 5;
@@ -98,7 +98,7 @@ namespace CatAsService
             "Arabian Mau",
             "Australian Mist",
             "Balinese"});
-            this.cbListaRacas.Location = new System.Drawing.Point(240, 125);
+            this.cbListaRacas.Location = new System.Drawing.Point(157, 122);
             this.cbListaRacas.Name = "cbListaRacas";
             this.cbListaRacas.Size = new System.Drawing.Size(180, 23);
             this.cbListaRacas.TabIndex = 6;
@@ -107,7 +107,7 @@ namespace CatAsService
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(148, 168);
+            this.label4.Location = new System.Drawing.Point(65, 165);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(85, 13);
             this.label4.TabIndex = 7;
@@ -117,7 +117,7 @@ namespace CatAsService
             // 
             this.lblTemperamento.AutoSize = true;
             this.lblTemperamento.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lblTemperamento.Location = new System.Drawing.Point(240, 166);
+            this.lblTemperamento.Location = new System.Drawing.Point(157, 163);
             this.lblTemperamento.Name = "lblTemperamento";
             this.lblTemperamento.Size = new System.Drawing.Size(59, 15);
             this.lblTemperamento.TabIndex = 8;
@@ -127,7 +127,7 @@ namespace CatAsService
             // 
             this.lblOrigem.AutoSize = true;
             this.lblOrigem.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lblOrigem.Location = new System.Drawing.Point(240, 198);
+            this.lblOrigem.Location = new System.Drawing.Point(157, 195);
             this.lblOrigem.Name = "lblOrigem";
             this.lblOrigem.Size = new System.Drawing.Size(59, 15);
             this.lblOrigem.TabIndex = 10;
@@ -137,7 +137,7 @@ namespace CatAsService
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label7.Location = new System.Drawing.Point(188, 200);
+            this.label7.Location = new System.Drawing.Point(105, 197);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(45, 13);
             this.label7.TabIndex = 9;
@@ -145,11 +145,10 @@ namespace CatAsService
             // 
             // lblDescricao
             // 
-            this.lblDescricao.AutoSize = true;
             this.lblDescricao.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lblDescricao.Location = new System.Drawing.Point(240, 227);
+            this.lblDescricao.Location = new System.Drawing.Point(157, 224);
             this.lblDescricao.Name = "lblDescricao";
-            this.lblDescricao.Size = new System.Drawing.Size(59, 15);
+            this.lblDescricao.Size = new System.Drawing.Size(276, 78);
             this.lblDescricao.TabIndex = 12;
             this.lblDescricao.Text = "Resultado";
             // 
@@ -157,7 +156,7 @@ namespace CatAsService
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label9.Location = new System.Drawing.Point(177, 229);
+            this.label9.Location = new System.Drawing.Point(94, 226);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(56, 13);
             this.label9.TabIndex = 11;
@@ -165,7 +164,7 @@ namespace CatAsService
             // 
             // btnFavoritar
             // 
-            this.btnFavoritar.Location = new System.Drawing.Point(441, 270);
+            this.btnFavoritar.Location = new System.Drawing.Point(441, 323);
             this.btnFavoritar.Name = "btnFavoritar";
             this.btnFavoritar.Size = new System.Drawing.Size(75, 23);
             this.btnFavoritar.TabIndex = 14;
@@ -175,7 +174,7 @@ namespace CatAsService
             // 
             // btnBuscar
             // 
-            this.btnBuscar.Location = new System.Drawing.Point(360, 270);
+            this.btnBuscar.Location = new System.Drawing.Point(360, 323);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(75, 23);
             this.btnBuscar.TabIndex = 15;
@@ -187,7 +186,7 @@ namespace CatAsService
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(534, 303);
+            this.ClientSize = new System.Drawing.Size(534, 358);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnFavoritar);
             this.Controls.Add(this.lblDescricao);
